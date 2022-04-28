@@ -1,0 +1,67 @@
+---
+manufacturer: Generic
+model: SC-12-port Fiber Patch Panel
+slug: SC-12-port-fiber-patch-panel
+u_height: 1
+front-ports:
+  - name: Port 1
+    type: sc
+    rear_port: Port 1
+  - name: Port 2
+    type: sc
+    rear_port: Port 2
+  - name: Port 3
+    type: sc
+    rear_port: Port 3
+  - name: Port 4
+    type: sc
+    rear_port: Port 4
+  - name: Port 5
+    type: sc
+    rear_port: Port 5
+  - name: Port 6
+    type: sc
+    rear_port: Port 6
+  - name: Port 7
+    type: sc
+    rear_port: Port 7
+  - name: Port 8
+    type: sc
+    rear_port: Port 8
+  - name: Port 9
+    type: sc
+    rear_port: Port 9
+  - name: Port 10
+    type: sc
+    rear_port: Port 10
+  - name: Port 11
+    type: sc
+    rear_port: Port 11
+  - name: Port 12
+    type: sc
+    rear_port: Port 12
+rear-ports:
+  - name: Port 1
+    type: sc
+  - name: Port 2
+    type: sc
+  - name: Port 3
+    type: sc
+  - name: Port 4
+    type: sc
+  - name: Port 5
+    type: sc
+  - name: Port 6
+    type: sc
+  - name: Port 7
+    type: sc
+  - name: Port 8
+    type: sc
+  - name: Port 9
+    type: sc
+  - name: Port 10
+    type: sc
+  - name: Port 11
+    type: sc
+  - name: Port 12
+    type: sc

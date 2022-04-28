@@ -1,0 +1,127 @@
+---
+manufacturer: Generic
+model: SC-24-port Fiber Patch Panel
+slug: SC-24-port-fiber-patch-panel
+u_height: 1
+front-ports:
+  - name: Port 1
+    type: sc
+    rear_port: Port 1
+  - name: Port 2
+    type: sc
+    rear_port: Port 2
+  - name: Port 3
+    type: sc
+    rear_port: Port 3
+  - name: Port 4
+    type: sc
+    rear_port: Port 4
+  - name: Port 5
+    type: sc
+    rear_port: Port 5
+  - name: Port 6
+    type: sc
+    rear_port: Port 6
+  - name: Port 7
+    type: sc
+    rear_port: Port 7
+  - name: Port 8
+    type: sc
+    rear_port: Port 8
+  - name: Port 9
+    type: sc
+    rear_port: Port 9
+  - name: Port 10
+    type: sc
+    rear_port: Port 10
+  - name: Port 11
+    type: sc
+    rear_port: Port 11
+  - name: Port 12
+    type: sc
+    rear_port: Port 12
+  - name: Port 13
+    type: sc
+    rear_port: Port 13
+  - name: Port 14
+    type: sc
+    rear_port: Port 14
+  - name: Port 15
+    type: sc
+    rear_port: Port 15
+  - name: Port 16
+    type: sc
+    rear_port: Port 16
+  - name: Port 17
+    type: sc
+    rear_port: Port 17
+  - name: Port 18
+    type: sc
+    rear_port: Port 18
+  - name: Port 19
+    type: sc
+    rear_port: Port 19
+  - name: Port 20
+    type: sc
+    rear_port: Port 20
+  - name: Port 21
+    type: sc
+    rear_port: Port 21
+  - name: Port 22
+    type: sc
+    rear_port: Port 22
+  - name: Port 23
+    type: sc
+    rear_port: Port 23
+  - name: Port 24
+    type: sc
+    rear_port: Port 24
+rear-ports:
+  - name: Port 1
+    type: sc
+  - name: Port 2
+    type: sc
+  - name: Port 3
+    type: sc
+  - name: Port 4
+    type: sc
+  - name: Port 5
+    type: sc
+  - name: Port 6
+    type: sc
+  - name: Port 7
+    type: sc
+  - name: Port 8
+    type: sc
+  - name: Port 9
+    type: sc
+  - name: Port 10
+    type: sc
+  - name: Port 11
+    type: sc
+  - name: Port 12
+    type: sc
+  - name: Port 13
+    type: sc
+  - name: Port 14
+    type: sc
+  - name: Port 15
+    type: sc
+  - name: Port 16
+    type: sc
+  - name: Port 17
+    type: sc
+  - name: Port 18
+    type: sc
+  - name: Port 19
+    type: sc
+  - name: Port 20
+    type: sc
+  - name: Port 21
+    type: sc
+  - name: Port 22
+    type: sc
+  - name: Port 23
+    type: sc
+  - name: Port 24
+    type: sc
