@@ -1,0 +1,37 @@
+---
+manufacturer: Generic
+model: SC-6-port Fiber Patch Panel
+slug: sc-6-port-fiber-patch-panel
+u_height: 1
+front-ports:
+  - name: Port 1
+    type: sc
+    rear_port: Port 1
+  - name: Port 2
+    type: sc
+    rear_port: Port 2
+  - name: Port 3
+    type: sc
+    rear_port: Port 3
+  - name: Port 4
+    type: sc
+    rear_port: Port 4
+  - name: Port 5
+    type: sc
+    rear_port: Port 5
+  - name: Port 6
+    type: sc
+    rear_port: Port 6
+rear-ports:
+  - name: Port 1
+    type: sc
+  - name: Port 2
+    type: sc
+  - name: Port 3
+    type: sc
+  - name: Port 4
+    type: sc
+  - name: Port 5
+    type: sc
+  - name: Port 6
+    type: sc
