@@ -1,7 +1,7 @@
 ---
 manufacturer: Generic
-model: SC-72-port Fiber Patch Panel 2U
-slug: sc-72-port-fiber-patch-panel-2u
+model: SC-72-port Fiber Patch Panel
+slug: sc-72-port-fiber-patch-panel
 u_height: 4
 front-ports:
   - name: Port 1

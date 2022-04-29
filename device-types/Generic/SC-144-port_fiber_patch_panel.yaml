@@ -1,0 +1,727 @@
+---
+manufacturer: Generic
+model: SC-144-port Fiber Patch Panel
+slug: sc-144-port-fiber-patch-panel
+u_height: 8
+front-ports:
+  - name: Port 1
+    type: sc
+    rear_port: Port 1
+  - name: Port 2
+    type: sc
+    rear_port: Port 2
+  - name: Port 3
+    type: sc
+    rear_port: Port 3
+  - name: Port 4
+    type: sc
+    rear_port: Port 4
+  - name: Port 5
+    type: sc
+    rear_port: Port 5
+  - name: Port 6
+    type: sc
+    rear_port: Port 6
+  - name: Port 7
+    type: sc
+    rear_port: Port 7
+  - name: Port 8
+    type: sc
+    rear_port: Port 8
+  - name: Port 9
+    type: sc
+    rear_port: Port 9
+  - name: Port 10
+    type: sc
+    rear_port: Port 10
+  - name: Port 11
+    type: sc
+    rear_port: Port 11
+  - name: Port 12
+    type: sc
+    rear_port: Port 12
+  - name: Port 13
+    type: sc
+    rear_port: Port 13
+  - name: Port 14
+    type: sc
+    rear_port: Port 14
+  - name: Port 15
+    type: sc
+    rear_port: Port 15
+  - name: Port 16
+    type: sc
+    rear_port: Port 16
+  - name: Port 17
+    type: sc
+    rear_port: Port 17
+  - name: Port 18
+    type: sc
+    rear_port: Port 18
+  - name: Port 19
+    type: sc
+    rear_port: Port 19
+  - name: Port 20
+    type: sc
+    rear_port: Port 20
+  - name: Port 21
+    type: sc
+    rear_port: Port 21
+  - name: Port 22
+    type: sc
+    rear_port: Port 22
+  - name: Port 23
+    type: sc
+    rear_port: Port 23
+  - name: Port 24
+    type: sc
+    rear_port: Port 24
+  - name: Port 25
+    type: sc
+    rear_port: Port 25
+  - name: Port 26
+    type: sc
+    rear_port: Port 26
+  - name: Port 27
+    type: sc
+    rear_port: Port 27
+  - name: Port 28
+    type: sc
+    rear_port: Port 28
+  - name: Port 29
+    type: sc
+    rear_port: Port 29
+  - name: Port 30
+    type: sc
+    rear_port: Port 30
+  - name: Port 31
+    type: sc
+    rear_port: Port 31
+  - name: Port 32
+    type: sc
+    rear_port: Port 32
+  - name: Port 33
+    type: sc
+    rear_port: Port 33
+  - name: Port 34
+    type: sc
+    rear_port: Port 34
+  - name: Port 35
+    type: sc
+    rear_port: Port 35
+  - name: Port 36
+    type: sc
+    rear_port: Port 36
+  - name: Port 37
+    type: sc
+    rear_port: Port 37
+  - name: Port 38
+    type: sc
+    rear_port: Port 38
+  - name: Port 39
+    type: sc
+    rear_port: Port 39
+  - name: Port 40
+    type: sc
+    rear_port: Port 40
+  - name: Port 41
+    type: sc
+    rear_port: Port 41
+  - name: Port 42
+    type: sc
+    rear_port: Port 42
+  - name: Port 43
+    type: sc
+    rear_port: Port 43
+  - name: Port 44
+    type: sc
+    rear_port: Port 44
+  - name: Port 45
+    type: sc
+    rear_port: Port 45
+  - name: Port 46
+    type: sc
+    rear_port: Port 46
+  - name: Port 47
+    type: sc
+    rear_port: Port 47
+  - name: Port 48
+    type: sc
+    rear_port: Port 48
+  - name: Port 49
+    type: sc
+    rear_port: Port 49
+  - name: Port 50
+    type: sc
+    rear_port: Port 50
+  - name: Port 51
+    type: sc
+    rear_port: Port 51
+  - name: Port 52
+    type: sc
+    rear_port: Port 52
+  - name: Port 53
+    type: sc
+    rear_port: Port 53
+  - name: Port 54
+    type: sc
+    rear_port: Port 54
+  - name: Port 55
+    type: sc
+    rear_port: Port 55
+  - name: Port 56
+    type: sc
+    rear_port: Port 56
+  - name: Port 57
+    type: sc
+    rear_port: Port 57
+  - name: Port 58
+    type: sc
+    rear_port: Port 58
+  - name: Port 59
+    type: sc
+    rear_port: Port 59
+  - name: Port 60
+    type: sc
+    rear_port: Port 60
+  - name: Port 61
+    type: sc
+    rear_port: Port 61
+  - name: Port 62
+    type: sc
+    rear_port: Port 62
+  - name: Port 63
+    type: sc
+    rear_port: Port 63
+  - name: Port 64
+    type: sc
+    rear_port: Port 64
+  - name: Port 65
+    type: sc
+    rear_port: Port 65
+  - name: Port 66
+    type: sc
+    rear_port: Port 66
+  - name: Port 67
+    type: sc
+    rear_port: Port 67
+  - name: Port 68
+    type: sc
+    rear_port: Port 68
+  - name: Port 69
+    type: sc
+    rear_port: Port 69
+  - name: Port 70
+    type: sc
+    rear_port: Port 70
+  - name: Port 71
+    type: sc
+    rear_port: Port 71
+  - name: Port 72
+    type: sc
+    rear_port: Port 72
+  - name: Port 73
+    type: sc
+    rear_port: Port 73
+  - name: Port 74
+    type: sc
+    rear_port: Port 74
+  - name: Port 75
+    type: sc
+    rear_port: Port 75
+  - name: Port 76
+    type: sc
+    rear_port: Port 76
+  - name: Port 77
+    type: sc
+    rear_port: Port 77
+  - name: Port 78
+    type: sc
+    rear_port: Port 78
+  - name: Port 79
+    type: sc
+    rear_port: Port 79
+  - name: Port 80
+    type: sc
+    rear_port: Port 80
+  - name: Port 81
+    type: sc
+    rear_port: Port 81
+  - name: Port 82
+    type: sc
+    rear_port: Port 82
+  - name: Port 83
+    type: sc
+    rear_port: Port 83
+  - name: Port 84
+    type: sc
+    rear_port: Port 84
+  - name: Port 85
+    type: sc
+    rear_port: Port 85
+  - name: Port 86
+    type: sc
+    rear_port: Port 86
+  - name: Port 87
+    type: sc
+    rear_port: Port 87
+  - name: Port 88
+    type: sc
+    rear_port: Port 88
+  - name: Port 89
+    type: sc
+    rear_port: Port 89
+  - name: Port 90
+    type: sc
+    rear_port: Port 90
+  - name: Port 91
+    type: sc
+    rear_port: Port 91
+  - name: Port 92
+    type: sc
+    rear_port: Port 92
+  - name: Port 93
+    type: sc
+    rear_port: Port 93
+  - name: Port 94
+    type: sc
+    rear_port: Port 94
+  - name: Port 95
+    type: sc
+    rear_port: Port 95
+  - name: Port 96
+    type: sc
+    rear_port: Port 96
+  - name: Port 97
+    type: sc
+    rear_port: Port 97
+  - name: Port 98
+    type: sc
+    rear_port: Port 98
+  - name: Port 99
+    type: sc
+    rear_port: Port 99
+  - name: Port 100
+    type: sc
+    rear_port: Port 100
+  - name: Port 101
+    type: sc
+    rear_port: Port 101
+  - name: Port 102
+    type: sc
+    rear_port: Port 102
+  - name: Port 103
+    type: sc
+    rear_port: Port 103
+  - name: Port 104
+    type: sc
+    rear_port: Port 104
+  - name: Port 105
+    type: sc
+    rear_port: Port 105
+  - name: Port 106
+    type: sc
+    rear_port: Port 106
+  - name: Port 107
+    type: sc
+    rear_port: Port 107
+  - name: Port 108
+    type: sc
+    rear_port: Port 108
+  - name: Port 109
+    type: sc
+    rear_port: Port 109
+  - name: Port 110
+    type: sc
+    rear_port: Port 110
+  - name: Port 111
+    type: sc
+    rear_port: Port 111
+  - name: Port 112
+    type: sc
+    rear_port: Port 112
+  - name: Port 113
+    type: sc
+    rear_port: Port 113
+  - name: Port 114
+    type: sc
+    rear_port: Port 114
+  - name: Port 115
+    type: sc
+    rear_port: Port 115
+  - name: Port 116
+    type: sc
+    rear_port: Port 116
+  - name: Port 117
+    type: sc
+    rear_port: Port 117
+  - name: Port 118
+    type: sc
+    rear_port: Port 118
+  - name: Port 119
+    type: sc
+    rear_port: Port 119
+  - name: Port 120
+    type: sc
+    rear_port: Port 120
+  - name: Port 121
+    type: sc
+    rear_port: Port 121
+  - name: Port 122
+    type: sc
+    rear_port: Port 122
+  - name: Port 123
+    type: sc
+    rear_port: Port 123
+  - name: Port 124
+    type: sc
+    rear_port: Port 124
+  - name: Port 125
+    type: sc
+    rear_port: Port 125
+  - name: Port 126
+    type: sc
+    rear_port: Port 126
+  - name: Port 127
+    type: sc
+    rear_port: Port 127
+  - name: Port 128
+    type: sc
+    rear_port: Port 128
+  - name: Port 129
+    type: sc
+    rear_port: Port 129
+  - name: Port 130
+    type: sc
+    rear_port: Port 130
+  - name: Port 131
+    type: sc
+    rear_port: Port 131
+  - name: Port 132
+    type: sc
+    rear_port: Port 132
+  - name: Port 133
+    type: sc
+    rear_port: Port 133
+  - name: Port 134
+    type: sc
+    rear_port: Port 134
+  - name: Port 135
+    type: sc
+    rear_port: Port 135
+  - name: Port 136
+    type: sc
+    rear_port: Port 136
+  - name: Port 137
+    type: sc
+    rear_port: Port 137
+  - name: Port 138
+    type: sc
+    rear_port: Port 138
+  - name: Port 139
+    type: sc
+    rear_port: Port 139
+  - name: Port 140
+    type: sc
+    rear_port: Port 140
+  - name: Port 141
+    type: sc
+    rear_port: Port 141
+  - name: Port 142
+    type: sc
+    rear_port: Port 142
+  - name: Port 143
+    type: sc
+    rear_port: Port 143
+  - name: Port 144
+    type: sc
+    rear_port: Port 144
+rear-ports:
+  - name: Port 1
+    type: sc
+  - name: Port 2
+    type: sc
+  - name: Port 3
+    type: sc
+  - name: Port 4
+    type: sc
+  - name: Port 5
+    type: sc
+  - name: Port 6
+    type: sc
+  - name: Port 7
+    type: sc
+  - name: Port 8
+    type: sc
+  - name: Port 9
+    type: sc
+  - name: Port 10
+    type: sc
+  - name: Port 11
+    type: sc
+  - name: Port 12
+    type: sc
+  - name: Port 13
+    type: sc
+  - name: Port 14
+    type: sc
+  - name: Port 15
+    type: sc
+  - name: Port 16
+    type: sc
+  - name: Port 17
+    type: sc
+  - name: Port 18
+    type: sc
+  - name: Port 19
+    type: sc
+  - name: Port 20
+    type: sc
+  - name: Port 21
+    type: sc
+  - name: Port 22
+    type: sc
+  - name: Port 23
+    type: sc
+  - name: Port 24
+    type: sc
+  - name: Port 25
+    type: sc
+  - name: Port 26
+    type: sc
+  - name: Port 27
+    type: sc
+  - name: Port 28
+    type: sc
+  - name: Port 29
+    type: sc
+  - name: Port 30
+    type: sc
+  - name: Port 31
+    type: sc
+  - name: Port 32
+    type: sc
+  - name: Port 33
+    type: sc
+  - name: Port 34
+    type: sc
+  - name: Port 35
+    type: sc
+  - name: Port 36
+    type: sc
+  - name: Port 37
+    type: sc
+  - name: Port 38
+    type: sc
+  - name: Port 39
+    type: sc
+  - name: Port 40
+    type: sc
+  - name: Port 41
+    type: sc
+  - name: Port 42
+    type: sc
+  - name: Port 43
+    type: sc
+  - name: Port 44
+    type: sc
+  - name: Port 45
+    type: sc
+  - name: Port 46
+    type: sc
+  - name: Port 47
+    type: sc
+  - name: Port 48
+    type: sc
+  - name: Port 49
+    type: sc
+  - name: Port 50
+    type: sc
+  - name: Port 51
+    type: sc
+  - name: Port 52
+    type: sc
+  - name: Port 53
+    type: sc
+  - name: Port 54
+    type: sc
+  - name: Port 55
+    type: sc
+  - name: Port 56
+    type: sc
+  - name: Port 57
+    type: sc
+  - name: Port 58
+    type: sc
+  - name: Port 59
+    type: sc
+  - name: Port 60
+    type: sc
+  - name: Port 61
+    type: sc
+  - name: Port 62
+    type: sc
+  - name: Port 63
+    type: sc
+  - name: Port 64
+    type: sc
+  - name: Port 65
+    type: sc
+  - name: Port 66
+    type: sc
+  - name: Port 67
+    type: sc
+  - name: Port 68
+    type: sc
+  - name: Port 69
+    type: sc
+  - name: Port 70
+    type: sc
+  - name: Port 71
+    type: sc
+  - name: Port 72
+    type: sc
+  - name: Port 73
+    type: sc
+  - name: Port 74
+    type: sc
+  - name: Port 75
+    type: sc
+  - name: Port 76
+    type: sc
+  - name: Port 77
+    type: sc
+  - name: Port 78
+    type: sc
+  - name: Port 79
+    type: sc
+  - name: Port 80
+    type: sc
+  - name: Port 81
+    type: sc
+  - name: Port 82
+    type: sc
+  - name: Port 83
+    type: sc
+  - name: Port 84
+    type: sc
+  - name: Port 85
+    type: sc
+  - name: Port 86
+    type: sc
+  - name: Port 87
+    type: sc
+  - name: Port 88
+    type: sc
+  - name: Port 89
+    type: sc
+  - name: Port 90
+    type: sc
+  - name: Port 91
+    type: sc
+  - name: Port 92
+    type: sc
+  - name: Port 93
+    type: sc
+  - name: Port 94
+    type: sc
+  - name: Port 95
+    type: sc
+  - name: Port 96
+    type: sc
+  - name: Port 97
+    type: sc
+  - name: Port 98
+    type: sc
+  - name: Port 99
+    type: sc
+  - name: Port 100
+    type: sc
+  - name: Port 101
+    type: sc
+  - name: Port 102
+    type: sc
+  - name: Port 103
+    type: sc
+  - name: Port 104
+    type: sc
+  - name: Port 105
+    type: sc
+  - name: Port 106
+    type: sc
+  - name: Port 107
+    type: sc
+  - name: Port 108
+    type: sc
+  - name: Port 109
+    type: sc
+  - name: Port 110
+    type: sc
+  - name: Port 111
+    type: sc
+  - name: Port 112
+    type: sc
+  - name: Port 113
+    type: sc
+  - name: Port 114
+    type: sc
+  - name: Port 115
+    type: sc
+  - name: Port 116
+    type: sc
+  - name: Port 117
+    type: sc
+  - name: Port 118
+    type: sc
+  - name: Port 119
+    type: sc
+  - name: Port 120
+    type: sc
+  - name: Port 121
+    type: sc
+  - name: Port 122
+    type: sc
+  - name: Port 123
+    type: sc
+  - name: Port 124
+    type: sc
+  - name: Port 125
+    type: sc
+  - name: Port 126
+    type: sc
+  - name: Port 127
+    type: sc
+  - name: Port 128
+    type: sc
+  - name: Port 129
+    type: sc
+  - name: Port 130
+    type: sc
+  - name: Port 131
+    type: sc
+  - name: Port 132
+    type: sc
+  - name: Port 133
+    type: sc
+  - name: Port 134
+    type: sc
+  - name: Port 135
+    type: sc
+  - name: Port 136
+    type: sc
+  - name: Port 137
+    type: sc
+  - name: Port 138
+    type: sc
+  - name: Port 139
+    type: sc
+  - name: Port 140
+    type: sc
+  - name: Port 141
+    type: sc
+  - name: Port 142
+    type: sc
+  - name: Port 143
+    type: sc
+  - name: Port 144
+    type: sc
