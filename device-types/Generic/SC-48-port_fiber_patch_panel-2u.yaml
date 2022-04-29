@@ -1,7 +1,7 @@
 ---
 manufacturer: Generic
 model: SC-48-port Fiber Patch Panel 2U
-slug: SC-48-port-fiber-patch-panel-2u
+slug: sc-48-port-fiber-patch-panel-2u
 u_height: 2
 front-ports:
   - name: Port 1

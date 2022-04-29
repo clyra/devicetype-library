@@ -1,8 +1,8 @@
 ---
 manufacturer: Generic
-model: SC-48-port Fiber Patch Panel 1U
-slug: sc-48-port-fiber-patch-panel-1u
-u_height: 1
+model: SC-36-port Fiber Patch Panel 2U
+slug: sc-36-port-fiber-patch-panel-2u
+u_height: 2
 front-ports:
   - name: Port 1
     type: sc
@@ -112,42 +112,6 @@ front-ports:
   - name: Port 36
     type: sc
     rear_port: Port 36
-  - name: Port 37
-    type: sc
-    rear_port: Port 37
-  - name: Port 38
-    type: sc
-    rear_port: Port 38
-  - name: Port 39
-    type: sc
-    rear_port: Port 39
-  - name: Port 40
-    type: sc
-    rear_port: Port 40
-  - name: Port 41
-    type: sc
-    rear_port: Port 41
-  - name: Port 42
-    type: sc
-    rear_port: Port 42
-  - name: Port 43
-    type: sc
-    rear_port: Port 43
-  - name: Port 44
-    type: sc
-    rear_port: Port 44
-  - name: Port 45
-    type: sc
-    rear_port: Port 45
-  - name: Port 46
-    type: sc
-    rear_port: Port 46
-  - name: Port 47
-    type: sc
-    rear_port: Port 47
-  - name: Port 48
-    type: sc
-    rear_port: Port 48
 rear-ports:
   - name: Port 1
     type: sc
@@ -220,28 +184,4 @@ rear-ports:
   - name: Port 35
     type: sc
   - name: Port 36
-    type: sc
-  - name: Port 37
-    type: sc
-  - name: Port 38
-    type: sc
-  - name: Port 39
-    type: sc
-  - name: Port 40
-    type: sc
-  - name: Port 41
-    type: sc
-  - name: Port 42
-    type: sc
-  - name: Port 43
-    type: sc
-  - name: Port 44
-    type: sc
-  - name: Port 45
-    type: sc
-  - name: Port 46
-    type: sc
-  - name: Port 47
-    type: sc
-  - name: Port 48
     type: sc

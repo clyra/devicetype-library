@@ -1,7 +1,7 @@
 ---
 manufacturer: Generic
 model: SC-12-port Fiber Patch Panel
-slug: SC-12-port-fiber-patch-panel
+slug: sc-12-port-fiber-patch-panel
 u_height: 1
 front-ports:
   - name: Port 1
